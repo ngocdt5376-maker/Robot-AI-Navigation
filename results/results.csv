@@ -1,0 +1,13 @@
+﻿algorithm,map,status,success,steps,opt,visited,observed,explore_rate,time_ms,expanded
+Weighted A*,Bản đồ 1 - ít vật cản,Đã hoàn thành,True,24,24,25,68,0.4121212121212121,3.098799985309597,562
+Weighted A* + ML,Bản đồ 1 - ít vật cản,Đã hoàn thành,True,24,24,25,69,0.41818181818181815,25.10049998818431,566
+LRTA*,Bản đồ 1 - ít vật cản,Đã hoàn thành,True,24,24,25,48,0.2909090909090909,0.13290000424603932,24
+LRTA* + ML,Bản đồ 1 - ít vật cản,Đã hoàn thành,True,24,24,25,48,0.2909090909090909,28.77539999826695,24
+Weighted A*,Bản đồ 2 - nhiều ngã rẽ,Đã hoàn thành,True,94,42,69,132,0.8,13.328600009117508,3637
+Weighted A* + ML,Bản đồ 2 - nhiều ngã rẽ,Đã hoàn thành,True,94,42,69,132,0.8,80.70669999506208,3637
+LRTA*,Bản đồ 2 - nhiều ngã rẽ,Đã hoàn thành,True,122,42,71,132,0.8,0.5031999971834011,122
+LRTA* + ML,Bản đồ 2 - nhiều ngã rẽ,Đã hoàn thành,True,116,42,71,132,0.8,223.19669998250902,116
+Weighted A*,Bản đồ 3 - nhiều đường cụt,Đã hoàn thành,True,84,68,77,149,0.9030303030303031,17.57700000598561,3506
+Weighted A* + ML,Bản đồ 3 - nhiều đường cụt,Đã hoàn thành,True,84,68,77,149,0.9030303030303031,161.05840000818716,3503
+LRTA*,Bản đồ 3 - nhiều đường cụt,Đã hoàn thành,True,184,68,89,159,0.9636363636363636,1.4616000553360209,184
+LRTA* + ML,Bản đồ 3 - nhiều đường cụt,Đã hoàn thành,True,240,68,89,159,0.9636363636363636,362.4362999944424,240

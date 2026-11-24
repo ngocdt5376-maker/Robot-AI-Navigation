@@ -1,0 +1,11 @@
+[ML] 14475 mẫu, nhãn: {0: 12796, 1: 1679}
+[ML] chính xác 0.73 (đoán lớp phổ biến: 0.87), precision 0.25, recall 0.61
+              precision    recall  f1-score   support
+
+        Thấp       0.93      0.74      0.83      3165
+         Cao       0.25      0.61      0.36       454
+
+    accuracy                           0.73      3619
+   macro avg       0.59      0.68      0.59      3619
+weighted avg       0.84      0.73      0.77      3619
+

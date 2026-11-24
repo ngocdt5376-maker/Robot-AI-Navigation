@@ -6,9 +6,9 @@ __pycache__/
 .venv/
 venv/
 
-# Generated models and experiment output
+# Generated models (tạo lại được bằng scripts/train_model.py)
+# Kết quả thực nghiệm trong results/ được giữ lại để giảng viên đối chiếu và tái lập
 models/*.joblib
-results/*.csv
 
 # IDE / OS
 .vscode/

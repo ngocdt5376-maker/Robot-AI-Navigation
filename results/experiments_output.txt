@@ -1,0 +1,14 @@
+Bản đồ                      Thuật toán        Kết quả      Bước  Tối ưu  Đã đi  Quan sát  Tỷ lệ KP       ms
+Bản đồ 1 - ít vật cản       Weighted A*       Thành công     24      24     25        68      41%     3.10
+Bản đồ 1 - ít vật cản       Weighted A* + ML  Thành công     24      24     25        69      42%    25.10
+Bản đồ 1 - ít vật cản       LRTA*             Thành công     24      24     25        48      29%     0.13
+Bản đồ 1 - ít vật cản       LRTA* + ML        Thành công     24      24     25        48      29%    28.78
+Bản đồ 2 - nhiều ngã rẽ     Weighted A*       Thành công     94      42     69       132      80%    13.33
+Bản đồ 2 - nhiều ngã rẽ     Weighted A* + ML  Thành công     94      42     69       132      80%    80.71
+Bản đồ 2 - nhiều ngã rẽ     LRTA*             Thành công    122      42     71       132      80%     0.50
+Bản đồ 2 - nhiều ngã rẽ     LRTA* + ML        Thành công    116      42     71       132      80%   223.20
+Bản đồ 3 - nhiều đường cụt  Weighted A*       Thành công     84      68     77       149      90%    17.58
+Bản đồ 3 - nhiều đường cụt  Weighted A* + ML  Thành công     84      68     77       149      90%   161.06
+Bản đồ 3 - nhiều đường cụt  LRTA*             Thành công    184      68     89       159      96%     1.46
+Bản đồ 3 - nhiều đường cụt  LRTA* + ML        Thành công    240      68     89       159      96%   362.44
+Đã lưu results.csv
